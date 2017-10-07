@@ -1,7 +1,7 @@
 #boot_config.sh
 #/bin/bash
 
-DIR="/home/swhite/Smart-Patrol"
+DIR="/home/asxy/Smart-Patrol/Smart-Patrol"
 
 $DIR/configure
 
